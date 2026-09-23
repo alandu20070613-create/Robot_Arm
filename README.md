@@ -2,7 +2,8 @@
 # 6-DOF Robotic Arm
 
 Arduino Uno controlled 6-DOF robotic arm, driven by 6 servos and controlled via serial commands.
-##Inspired by TaiChi-Maker and MakerBuying
+
+**Inspired by TaiChi-Maker and MakerBuying**
 
 ## Wiring
 
